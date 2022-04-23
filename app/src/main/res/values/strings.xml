@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticaLab4</string>
+    <string name="noe_john_fernando_sierra_sotrelo">Noe Jhon fernando Sierra Sotelo</string>
+    <string name="noe_sierra_tecsup_edu_pe">noe.sierra@tecsup.edu.pe</string>
+    <string name="intihuatana_santa_anita">Intihuatana, Santa anita</string>
+    <string name="_965862213">965862213</string>
+    <string name="editar">Editar</string>
+    <string name="guardar">Guardar</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="llamada">llamada</string>
+</resources>
